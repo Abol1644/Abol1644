@@ -1,188 +1,228 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= HERO ========================= -->
 
-<h1 align="center">Hi 👋 I'm Abolfazl Bagheri</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Engineer • UI/UX Designer • AI Workflow Builder
-</h3>
+# ABOLFAZL BAGHERI
 
-<p align="center">
-Building scalable products, thoughtful user experiences, and AI-powered workflows.
+### Frontend Engineer · Product Designer · AI Systems Builder
+
+<p>
+Building software that scales without becoming ugly, confusing, or exhausting to maintain.
 </p>
 
-<p align="center">
-
+<p>
 <a href="https://github.com/Abol1644">
-<img src="https://img.shields.io/github/followers/Abol1644?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Abol1644?label=Followers&style=for-the-badge" alt="Followers" />
 </a>
-
 <a href="https://github.com/Abol1644?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Open-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repositories-View%20Work-black?style=for-the-badge" alt="Repositories" />
 </a>
-
 </p>
 
----
-
-# 🚀 About Me
-
-I'm a Frontend Engineer with a background in UI/UX Design.
-
-I enjoy designing software that is not only visually polished but also scalable, maintainable, and enjoyable to build.
-
-Recently I've been focusing on:
-
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- ⚡ Frontend Architecture
-- 🎨 Product Design
-- 🏗 Large-scale React Applications
-- 🔧 Developer Tooling
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## Mission
+
+I design products before I build them.
+
+I care about architecture as much as I care about interface quality.
+
+I build systems that stay understandable long after the first release.
+
+---
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Tisheh Manager Suite
+
+Enterprise management platform focused on sales, warehouse, distribution, fleet, and operational workflows.
+
+**Stack**
+
+* React
+* TypeScript
+* Vite
+* MUI
+* Zustand
+
+**Highlights**
+
+* Large-scale business application
+* Modular architecture
+* Production-oriented UI patterns
+
+**Repo**
+
+* [View Repository](https://github.com/Abol1644)
+
+    </td>
+    <td width="50%" valign="top">
+
+### AI Project Assistant
+
+AI workflow project for tool calling, RAG, prompt compilation, and multi-agent coordination.
+
+**Stack**
+
+* MCP
+* RAG
+* Tool Calling
+* AI Agents
+
+**Highlights**
+
+* Agent-driven workflows
+* Developer tooling direction
+* Automation-focused design
+
+**Repo**
+
+* [View Repository](https://github.com/Abol1644)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Flip Clock
+
+A clean productivity-focused UI concept built around motion, clarity, and focus.
+
+**Stack**
+
+* React
+* TypeScript
+* Animation
+
+**Highlights**
+
+* Minimal interface
+* Motion-first thinking
+* Productive UX direction
+
+**Repo**
+
+* [View Repository](https://github.com/Abol1644)
+
+    </td>
+    <td width="50%" valign="top">
+
+### Design & Systems Thinking
+
+A continuous focus on product design, frontend architecture, and AI-native workflows.
+
+**Stack**
+
+* Figma
+* React
+* TypeScript
+* Linux
+* Git
+
+**Highlights**
+
+* UI/UX background
+* Strong visual taste
+* Builder mindset
+
+**Repo**
+
+* [View Repository](https://github.com/Abol1644)
+
+    </td>
+  </tr>
+
+</table>
+
+---
+
+## Engineering Principles
+
+| Principle                    | What it means                                                  |
+| ---------------------------- | -------------------------------------------------------------- |
+| Design before code           | Make the structure clear before adding complexity.             |
+| Performance is a feature     | Fast interfaces feel more trustworthy.                         |
+| Readable code wins           | Future maintainers matter. Usually more than the current mood. |
+| Simple systems survive       | Clean systems age better than clever ones.                     |
+| Developer experience matters | Good tooling saves real time and real sanity.                  |
+
+---
+
+## Toolbox
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+`TypeScript` `JavaScript`
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
-
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
-
-![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
-
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+`React` `Vite` `Zustand` `TanStack Query` `MUI`
 
 ### Design
 
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+`Figma` `Adobe Photoshop` `Adobe Illustrator`
 
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop)
+### AI / Systems
 
-![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobeillustrator)
+`OpenAI` `MCP` `RAG` `Tool Calling` `Multi-Agent Systems`
 
-### Tools
+### Workflow
 
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+`Git` `Linux` `Node.js`
 
 ---
 
-# 🌟 Featured Projects
+## Current Focus
 
-## 🏗 Tisheh Manager Suite
-
-Enterprise management platform built with React + TypeScript.
-
-**Focus**
-
-- Scalable Architecture
-- Modular Design
-- ERP / CRM
-- Warehouse
-- Fleet
-- Sales
-- Distribution
+* Building production-grade software
+* AI-powered developer tools
+* Frontend architecture
+* Design systems
+* Large React applications
+* Clean workflows for real-world teams
 
 ---
 
-## 🤖 AI Project Assistant
+## Philosophy
 
-AI-powered development assistant focused on:
+> Good software is built for the next developer, not just the current user.
 
-- Multi-Agent Systems
-- Tool Calling
-- RAG
-- Prompt Engineering
-- Git Automation
+> A polished interface is nice. A maintainable system is better.
+
+> Complexity should be earned, not sprayed across the codebase like confetti.
 
 ---
 
-## ⏰ Flip Clock
+## GitHub Stats
 
-A modern React application focused on:
+<div align="center">
 
-- Smooth animations
-- Performance
-- Beautiful UI
-- Productivity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
----
+<br /><br />
 
-# 🎯 Current Focus
+<img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-```txt
-• Building production-grade software
+<br /><br />
 
-• AI-powered developer tools
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abol1644&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
-• Frontend architecture
-
-• Product Design
-
-• Open Source
-
-• React Performance
-```
+</div>
 
 ---
 
-# 📈 GitHub Stats
+## Let's Build
+
+* GitHub: [@Abol1644](https://github.com/Abol1644)
+* Email: `a.bgh04140@gmail.com`
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abol1644&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-- GitHub
-  - https://github.com/Abol1644
-
-- Email
-  - a.bgh04140@gmail.com
-
----
-
-<p align="center">
-
-<i>
-"Great software is built by people who care about both the code and the people using it."
-</i>
-
+  <i>Building software that remains understandable as it grows.</i>
 </p>
