@@ -1,188 +1,86 @@
-<!-- ========================= HEADER ========================= -->
+<br>
 
-<h1 align="center">Hi 👋 I'm Abolfazl Bagheri</h1>
+# Abolfazl Bagheri
 
-<h3 align="center">
-Frontend Engineer • UI/UX Designer • AI Workflow Builder
-</h3>
+**Frontend Engineer** &nbsp;·&nbsp; **Product Designer** &nbsp;·&nbsp; **AI Workflow Architect**
 
-<p align="center">
-Building scalable products, thoughtful user experiences, and AI-powered workflows.
-</p>
+I design and build production systems at the intersection of frontend architecture and AI engineering.
 
-<p align="center">
-
-<a href="https://github.com/Abol1644">
-<img src="https://img.shields.io/github/followers/Abol1644?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Abol1644?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Open-blue?style=for-the-badge"/>
-</a>
-
-</p>
+<br>
 
 ---
 
-# 🚀 About Me
+<br>
 
-I'm a Frontend Engineer with a background in UI/UX Design.
+## About
 
-I enjoy designing software that is not only visually polished but also scalable, maintainable, and enjoyable to build.
+I architect React applications at scale with an emphasis on performance, maintainability, and design coherence. My work spans design systems that unify cross-team output, enterprise frontends serving complex business domains, and AI-native developer tooling built on agents, tool calling, and retrieval-augmented generation.
 
-Recently I've been focusing on:
+I ship systems that engineers trust and users enjoy.
 
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- ⚡ Frontend Architecture
-- 🎨 Product Design
-- 🏗 Large-scale React Applications
-- 🔧 Developer Tooling
+<br>
 
----
+## Expertise
 
-# 🛠 Tech Stack
+<table>
+<tr><td width="180"><strong>Frontend Architecture</strong></td><td>React &middot; TypeScript &middot; Vite &middot; Zustand &middot; TanStack Query &middot; MUI</td></tr>
+<tr><td><strong>Product Design</strong></td><td>Figma &middot; Design Systems &middot; Interaction Design &middot; Prototyping</td></tr>
+<tr><td><strong>AI Engineering</strong></td><td>Multi-Agent Systems &middot; Prompt Engineering &middot; Tool Calling &middot; RAG &middot; MCP</td></tr>
+</table>
 
-### Languages
+<br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+## Featured Projects
 
-### Frontend
+### [Tisheh Manager Suite](https://github.com/Abol1644/tisheh-manager)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+Enterprise management platform spanning warehouse, fleet, sales, and distribution. Built on a modular architecture that scales across business domains without coupling — ERP/CRM modules, real-time inventory, and fleet logistics served from a single React codebase.
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+`React` `TypeScript` `MUI` `Zustand` `TanStack Query`
 
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
+### [AI Project Assistant](https://github.com/Abol1644/ai-project-assistant)
 
-![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
+AI-native development tooling powered by multi-agent orchestration. Combines prompt engineering, tool calling, and RAG pipelines to automate software delivery — from code generation to Git workflows — with context-aware agent routing.
 
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+`TypeScript` `AI Agents` `Tool Calling` `RAG` `MCP`
 
-### Design
+### [Flip Clock](https://github.com/Abol1644/flip-clock)
 
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+A precision UI experiment in smooth animation, strict performance budgeting, and visual polish. Built as an exercise in craft — sub-frame transitions, zero-jank layout, and interaction design at the microsecond level.
 
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop)
+`React` `CSS` `Animation`
 
-![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobeillustrator)
+[View all projects &rarr;](https://github.com/Abol1644?tab=repositories)
 
-### Tools
+<br>
 
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+## Current Focus
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+- AI-powered developer tooling and agentic workflows
+- Frontend performance at scale
+- Design systems and design-to-code pipelines
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+<br>
 
----
+## GitHub
 
-# 🌟 Featured Projects
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=94a3b8&text_color=8b949e&icon_color=5e6ad2&ring_color=5e6ad2"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=334155&text_color=475569&icon_color=5e6ad2&ring_color=5e6ad2"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=334155&text_color=475569&icon_color=5e6ad2" />
+</picture>
 
-## 🏗 Tisheh Manager Suite
+<br>
+<br>
 
-Enterprise management platform built with React + TypeScript.
+## Contact
 
-**Focus**
+[GitHub](https://github.com/Abol1644) &nbsp;&middot;&nbsp; [Email](mailto:a.bgh04140@gmail.com)
 
-- Scalable Architecture
-- Modular Design
-- ERP / CRM
-- Warehouse
-- Fleet
-- Sales
-- Distribution
-
----
-
-## 🤖 AI Project Assistant
-
-AI-powered development assistant focused on:
-
-- Multi-Agent Systems
-- Tool Calling
-- RAG
-- Prompt Engineering
-- Git Automation
-
----
-
-## ⏰ Flip Clock
-
-A modern React application focused on:
-
-- Smooth animations
-- Performance
-- Beautiful UI
-- Productivity
-
----
-
-# 🎯 Current Focus
-
-```txt
-• Building production-grade software
-
-• AI-powered developer tools
-
-• Frontend architecture
-
-• Product Design
-
-• Open Source
-
-• React Performance
-```
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abol1644&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-- GitHub
-  - https://github.com/Abol1644
-
-- Email
-  - a.bgh04140@gmail.com
-
----
-
-<p align="center">
-
-<i>
-"Great software is built by people who care about both the code and the people using it."
-</i>
-
-</p>
+<br>
