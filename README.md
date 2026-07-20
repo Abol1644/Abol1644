@@ -108,11 +108,6 @@ A continuous focus on product design, frontend architecture, and AI-native workf
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-<br /><br />
-
 <img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
