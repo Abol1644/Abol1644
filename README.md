@@ -1,150 +1,188 @@
-```markdown
-<!-- ═══════════════════════════════════════════════════
-     🎨 BANNER — طراحی خودت
-     سایز: 2560×1280 px | فرمت: PNG transparent
-     فایل رو بذار تو assets/banner.png
-═══════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner"/>
-</p>
+<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Abolfazl Bagheri</h1>
+<h1 align="center">Hi 👋 I'm Abolfazl Bagheri</h1>
+
+<h3 align="center">
+Frontend Engineer • UI/UX Designer • AI Workflow Builder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=740&height=60&lines=I+architect+systems.,I+design+experiences.,I+build+AI+that+ships."/>
+Building scalable products, thoughtful user experiences, and AI-powered workflows.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND_ARCHITECT-React_/_TS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI_WORKFLOWS-Agents_/_RAG-E0AF68?style=for-the-badge&logo=openai&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PRODUCT_DESIGN-Figma_First-F7768E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
 
-<!-- ⚠️ MOCK DATA — به محض اینکه عدد واقعی داشتی جایگزین کن -->
-<p align="center">
-  <img src="https://img.shields.io/badge/4%2B_years-building-2EA043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/25%2B_projects-shipped-7AA2F7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/12_production-apps-BB9AF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/3K%2B_users-served-E0AF68?style=flat-square"/>
-  <img src="https://img.shields.io/badge/6_AI_agents-live-F7768E?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=Abol1644&label=profile+views&color=7DCFFF&style=flat-square"/>
+<a href="https://github.com/Abol1644">
+<img src="https://img.shields.io/github/followers/Abol1644?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Abol1644?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Open-blue?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## ⚡ The Short Version
+# 🚀 About Me
 
-Most engineers pick one lane — design, code, or AI. **I refused.**
+I'm a Frontend Engineer with a background in UI/UX Design.
 
-I'm a Frontend Engineer who thinks in **systems**, designs in **Figma before touching a component**, and wires **AI agents** into the products I ship. The result: software that looks intentional, scales cleanly, and thinks for itself where it should.
+I enjoy designing software that is not only visually polished but also scalable, maintainable, and enjoyable to build.
 
----
+Recently I've been focusing on:
 
-## 🧠 AI Arsenal — Architecture, Not Buzzwords
-
-| Layer | What I Actually Build |
-|:---|:---|
-| **Orchestration** | Multi-agent pipelines — planner → worker → critic loops with explicit handoff protocols |
-| **RAG** | Chunking strategies, hybrid retrieval, reranking, eval-driven iteration |
-| **Tool Use** | Function-calling agents wired to Git, APIs & DBs — with guardrails and fallbacks |
-| **Prompting** | Versioned, tested, measured prompts — engineering, not vibes |
+- 🤖 AI Agents
+- 🧠 Multi-Agent Systems
+- ⚡ Frontend Architecture
+- 🎨 Product Design
+- 🏗 Large-scale React Applications
+- 🔧 Developer Tooling
 
 ---
 
-## 🏗 Frontend Architecture — Where Design Meets Scale
+# 🛠 Tech Stack
 
-- **State** → Zustand stores sliced by domain · TanStack Query as the single server-state truth
-- **Structure** → Feature-sliced modules, strict boundaries, zero spaghetti imports
-- **Performance** → Code-splitting, surgical memoization, **60fps as a requirement** not a goal
-- **DX** → Vite + strict TypeScript · tooling that makes the right way the easy way
+### Languages
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 
-## 🎨 Design Command
+### Frontend
 
-Figma → Photoshop → Illustrator → shipped UI.
-I don't hand off designs — **I am the handoff.** Design systems, motion, hierarchy: all decided before the first `<div>` exists.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 
----
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
 
-## 🛠 Tech Stack
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,figma,ps,ai,linux,git&theme=dark"/>
-</p>
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-bear_state-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST_%26_APIs-production_hardened-9ECE6A?style=flat-square"/>
-</p>
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
 
----
+### Design
 
-## 🌟 Featured Work
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
 
-### 🏗 Tisheh Manager Suite
-> Enterprise ERP/CRM platform — React + TypeScript
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop)
 
-`12 modules` `10K+ LOC` `400+ daily users` <!-- ⚠️ mock -->
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobeillustrator)
 
-Warehouse · Fleet · Sales · Distribution — one modular frontend, zero chaos.
+### Tools
 
-### 🤖 AI Project Assistant
-> Multi-agent development copilot
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
-`5 specialized agents` `RAG over codebase` `Git automation` <!-- ⚠️ mock -->
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-Planner · Coder · Reviewer · Researcher · Executor — orchestrated with tool-calling and memory.
-
-### ⏰ Flip Clock
-> A motion study in React
-
-`60fps` `<50KB bundle` `physics-based flip` <!-- ⚠️ mock -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 
 ---
 
-## 🎯 Current Obsession
+# 🌟 Featured Projects
+
+## 🏗 Tisheh Manager Suite
+
+Enterprise management platform built with React + TypeScript.
+
+**Focus**
+
+- Scalable Architecture
+- Modular Design
+- ERP / CRM
+- Warehouse
+- Fleet
+- Sales
+- Distribution
+
+---
+
+## 🤖 AI Project Assistant
+
+AI-powered development assistant focused on:
+
+- Multi-Agent Systems
+- Tool Calling
+- RAG
+- Prompt Engineering
+- Git Automation
+
+---
+
+## ⏰ Flip Clock
+
+A modern React application focused on:
+
+- Smooth animations
+- Performance
+- Beautiful UI
+- Productivity
+
+---
+
+# 🎯 Current Focus
 
 ```txt
-→ Production-grade AI developer tools
-→ React performance at scale
-→ Design systems that enforce quality
-→ Open source
+• Building production-grade software
+
+• AI-powered developer tools
+
+• Frontend architecture
+
+• Product Design
+
+• Open Source
+
+• React Performance
 ```
 
 ---
 
-## 📈 The Receipts
+# 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abol1644&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abol1644&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol1644&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="mailto:a.bgh04140@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-a.bgh04140@gmail.com-E0AF68?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Abol1644">
-    <img src="https://img.shields.io/badge/GITHUB-@Abol1644-7AA2F7?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=Abol1644&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+# 📊 Contribution Graph
+
 <p align="center">
-  <b>"Design is how it works. Code is why it works. AI is what works <i>for</i> you."</b>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abol1644&theme=tokyo-night&hide_border=true"/>
+
 </p>
-```
+
+---
+
+# 📫 Connect With Me
+
+- GitHub
+  - https://github.com/Abol1644
+
+- Email
+  - a.bgh04140@gmail.com
+
+---
+
+<p align="center">
+
+<i>
+"Great software is built by people who care about both the code and the people using it."
+</i>
+
+</p>
